@@ -2,7 +2,7 @@ body
 {
 		margin: 2%;
 		border: 1px solid black;
-		background-color: #4f0f46;
+		background-color: #b3b3b3;
 }
 #image
 {
@@ -11,7 +11,7 @@ body
     height: 650px;
 	border:5px solid black;
 	margin:0 auto;
-    background-color: #e1533f;
+    background-color: #8e68ff;
     background-image: url('');
     background-repeat: no-repeat;
     color:#FFFFFF;
